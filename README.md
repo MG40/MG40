@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MG
-- 👀 Stranger and often strange
-- 🌱 I’m currently learning k8s, mlops
+- 👀 Your regular Stranger 
+- 🌱 DevOps enthusiast!
 
 
 <!---
