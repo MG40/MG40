@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MG
-- 👀 Your regular Stranger 
-- 🌱 DevOps enthusiast!
 
 
 <!---
